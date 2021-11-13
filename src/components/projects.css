@@ -1,0 +1,43 @@
+.projects-container {
+    max-width: 900px;
+    margin: auto;
+    text-align: left;
+}
+
+.title-heading {
+    text-align: center;
+    margin: 4rem 0rem 1rem;
+}
+
+.title-heading-inverted {
+    color:#49a0eb;
+}
+
+.projects-list-non-bullet {
+    margin: 4rem 0rem 2rem;
+}
+
+.w-list {
+    background-color:#EAF5FF;
+    padding: 3rem;
+}
+
+.ow-list {
+    background-color:lightgray;
+    padding: 3rem;
+}
+
+.w-list .link, .ow-list .link {
+    background-color: #49a0eb;
+    color: white;
+    padding: .5rem 1rem;
+    margin: 0rem .3rem;
+}
+
+.w-list ol {
+    margin-top: .5rem;
+}
+
+.mark {
+    color:#49a0eb;
+}
