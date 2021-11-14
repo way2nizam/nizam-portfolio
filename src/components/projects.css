@@ -3,6 +3,9 @@
     margin: auto;
     text-align: left;
 }
+.projects-container ul {
+    padding-inline-start: 0px;
+  }
 
 .title-heading {
     text-align: center;
