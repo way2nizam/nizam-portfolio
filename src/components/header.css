@@ -5,6 +5,10 @@
 
 }
 
+.navbar ul {
+    padding-inline-start: 0px;
+  }
+
 .nav-brand {
     display: inline-block;
     margin-left: 2rem;
