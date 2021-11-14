@@ -1,6 +1,11 @@
 import React from 'react';
 import './App.css';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+  Navigate,
+} from 'react-router-dom';
 
 import Home from './components/home';
 import Blogs from './components/blogs';
@@ -19,6 +24,7 @@ const App = () => {
         <Route path='/mark15' element={<Mark15 />} />
         <Route path='/bonus-work' element={<Bonus />} />
         <Route path='/tminus5' element={<Tminus5 />} />
+        <Route path='*' element={<Navigate replace to='/' />} />
       </Routes>
     </Router>
   );
