@@ -9,11 +9,33 @@ const mark15 = () => {
       <Header />
       <div class='projects-container'>
         <h1 className='title-heading'>
-          check out <span class='title-heading-inverted'>my mark15 </span>
-          projects
+          check out <span class='title-heading-inverted'>my projects </span>
         </h1>
 
         <ul class='projects-list-non-bullet'>
+          <li>
+            <div class='ow-list'>
+              <h1>
+                Component Library -<span class='mark'> neoG Level 1</span>
+              </h1>
+              <p>A Simple HTML/CSS Component Library.</p>
+
+              <a
+                class='link link-primary'
+                href='https://nyaa-ui.netlify.app/'
+                target='_blank'
+                rel='noreferrer'>
+                Live Project
+              </a>
+              <a
+                class='link link-secondary'
+                href='https://github.com/way2nizam/nyaa-ui'
+                target='_blank'
+                rel='noreferrer'>
+                View Source
+              </a>
+            </div>
+          </li>
           <li>
             <div class='w-list'>
               <h1>

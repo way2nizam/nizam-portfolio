@@ -1,46 +1,47 @@
 .projects-container {
-    max-width: 900px;
-    margin: auto;
-    text-align: left;
+  max-width: 900px;
+  margin: auto;
+  text-align: left;
 }
 .projects-container ul {
-    padding-inline-start: 0px;
-  }
+  padding-inline-start: 0px;
+}
 
 .title-heading {
-    text-align: center;
-    margin: 4rem 0rem 1rem;
+  text-align: center;
+  margin: 4rem 0rem 1rem;
 }
 
 .title-heading-inverted {
-    color:#49a0eb;
+  color: #49a0eb;
 }
 
 .projects-list-non-bullet {
-    margin: 4rem 0rem 2rem;
+  margin: 4rem 0rem 2rem;
 }
 
 .w-list {
-    background-color:#EAF5FF;
-    padding: 3rem;
+  background-color: #eaf5ff;
+  padding: 3rem;
 }
 
 .ow-list {
-    background-color:lightgray;
-    padding: 3rem;
+  background-color: lightgray;
+  padding: 3rem;
 }
 
-.w-list .link, .ow-list .link {
-    background-color: #49a0eb;
-    color: white;
-    padding: .5rem 1rem;
-    margin: 0rem .3rem;
+.w-list .link,
+.ow-list .link {
+  background-color: #49a0eb;
+  color: white;
+  padding: 0.5rem 1rem;
+  margin: 0rem 0.3rem;
 }
 
 .w-list ol {
-    margin-top: .5rem;
+  margin-top: 0.5rem;
 }
 
 .mark {
-    color:#49a0eb;
+  color: #49a0eb;
 }
