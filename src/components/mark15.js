@@ -16,7 +16,7 @@ const mark15 = () => {
           <li>
             <div class='ow-list'>
               <h1>
-                Component Library -<span class='mark'> neoG Level 1</span>
+                Component Library -<span class='mark'> Level-1 </span>
               </h1>
               <p>A Simple HTML/CSS Component Library.</p>
 
