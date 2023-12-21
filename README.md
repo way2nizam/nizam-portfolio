@@ -5,7 +5,7 @@ This web portfolio is designed with ReactJs. It is redesigned version of old por
 New Portfolio Link : https://way2nizam.netlify.app/
 ## All Projects (Mark15, T-Minus-5 and other projects )
 
-In the project directory, you will multiple projects under the guidance of Tanay Bhaiya nd Neog Community. 
+In the project directory, you will multiple projects under the guidance of Tanay Bhaiya. 
 
 ### `npm start`
 
